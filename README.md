@@ -1,6 +1,6 @@
 # Tweet Sentiment Analyzer
 
-This project analyzes tweets and predicts their sentiment (positive, negative, or neutral). It uses a machine learning model trained on a dataset of tweets with labeled sentiments.  This README provides instructions on how to set up, run, and contribute to the project.
+This project analyzes tweets and predicts their sentiment (positive, negative, or neutral). It uses a machine learning model trained on a dataset of tweets with labeled sentiments.  
 
 ## Introduction
 
